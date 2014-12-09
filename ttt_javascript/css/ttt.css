@@ -1,0 +1,11 @@
+.square {
+  float: left;
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+}
+
+.row{
+  display:block;
+  clear: both;
+}
